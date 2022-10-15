@@ -1,0 +1,18 @@
+{
+  "id": "{uniqueid]",
+  "category": {
+    "id": 4,
+    "name": "dogs"
+  },
+  "name": "doggie_new",
+  "photoUrls": [
+    "https://testphoto.com/photo.png"
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "adult"
+    }
+  ],
+  "status": "available"
+}
