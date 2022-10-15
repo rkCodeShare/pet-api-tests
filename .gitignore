@@ -8,5 +8,5 @@
 .vscode
 
 # Tests Related
-# **/reports/
+**/reports/
 .env
