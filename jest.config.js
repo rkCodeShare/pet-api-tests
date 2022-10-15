@@ -1,7 +1,7 @@
 module.exports = {
   testMatch: ['**/?(*)+(spec|test).[jt]s?(x)'],
   verbose: true,
-  maxWorkers : 3,
+  maxWorkers : 4,
   reporters: [
     'default',
     [
